@@ -79,14 +79,20 @@ header {
     vertical-align: middle;
 }
 
-nav { background: #262d33; }
+nav { background: #262d33;}
+
+nav li {float: left;}
 
 nav li a { 
     color: #AFB2B6;
-    display: inline-block;
+    display: block;
     padding: 10px 10px;
+    text-align: center;
+    
 }
-
+.container {
+    display: inline-block;
+}
 /* End Header */
 
 /* Footer */
