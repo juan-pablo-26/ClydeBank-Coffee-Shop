@@ -22,6 +22,7 @@ main {
 a:hover {
     text-decoration: none;
     opacity: 0.95;
+    color: orange;
 }
 
 h1, h2, h3, h4, h5, h6, p, a, input, div, textarea, label {
@@ -79,17 +80,18 @@ header {
     vertical-align: middle;
 }
 
-nav { background: #262d33;}
+nav { background: chocolate;}
 
 nav li {float: left;}
 
 nav li a { 
-    color: #AFB2B6;
+    color: white;
     display: block;
     padding: 10px 10px;
     text-align: center;
     
 }
+
 .container {
     display: inline-block;
 }
@@ -98,7 +100,7 @@ nav li a {
 /* Footer */
 
 footer {
-    background: #333;
+    background: chocolate;
     color: #fff;
     padding: 10px;  
     height: 100px;
