@@ -1,8 +1,8 @@
 /* General Settings */
 
 @font-face {
-    src: local(fonts/playtime.ttf);
-    font-family: playtime;
+    src: url(fonts/Pacifico.ttf);
+    font-family: play;
 }
 
 html {
@@ -12,7 +12,7 @@ html {
 
 body {
     font-size: 16px;
-    font-family: playtime;
+    font-family: play;
     margin: 0;
     color: #000;
 }
